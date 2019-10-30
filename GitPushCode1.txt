@@ -1,0 +1,2 @@
+We pushing the code into github 
+a _+ b =c and a =4 ;
